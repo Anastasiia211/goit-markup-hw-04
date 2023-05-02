@@ -433,7 +433,6 @@ section {
 /* Portfolio */
 .portfolio-list {
   display: block;
-  border-radius: 0px 0px 4px 4px;
 }
 .portfolio-link {
   display: block;
