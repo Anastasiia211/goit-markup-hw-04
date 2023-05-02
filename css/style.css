@@ -275,9 +275,6 @@ section {
   color: var(--color-grey);
 }
 /* Про компанію */
-.container-items {
-  margin-bottom: 8px;
-}
 .company-items title {
   color: var(--color-grey);
 }
@@ -302,6 +299,7 @@ section {
   justify-content: center;
   background: #f4f4fd;
   border-radius: 4px;
+  margin-bottom: 8px;
 }
 
 .title-about {
